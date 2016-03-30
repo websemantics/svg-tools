@@ -10,11 +10,10 @@
   "homepage" : "http://websemantics.ca",
   "license": "MIT",
   "dependencies": {
-    "grunt": "*",
-    "grunt-svgmin": "0.3.0",
-    "grunt-grunticon": "*"
+    "gulp": "*",
+    "gulp-svgmin": "*"
   },
   "scripts": {
-    "prepublish": "grunt"
+    "prepublish": "gulp"
   }
 }

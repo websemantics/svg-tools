@@ -1,5 +1,5 @@
 # SVG Tools
-Process and optimize SVG files. This project will optimize all the SVG files stored in `svg-source` folder and save them into `svg-output`
+Process and optimize SVG files. This project will optimize all the SVG files stored in `svg` folder and save them into `out`
 
 ## install
 
@@ -17,9 +17,10 @@ cd svg-tools
 sudo npm install
 ```
 
-3- Copy your SVG files into `svg-source`
+3- Copy your SVG files into `svg`
 
-4- Run Grunt to optimize your SVG files
+4- Run Gulp to optimize your SVG files
 
 ```
-grunt```
+gulp
+```
