@@ -1,0 +1,22 @@
+{
+  "name": "svg-tools",
+  "version": "0.0.1",
+  "description": "Process and optimize SVG files",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/websemantics/svg-tools"
+  },
+  "author": {
+    "name": "Adnan M.Sagar, PhD. <adnan@websemantics.ca>",
+  },
+  "homepage" : "http://websemantics.ca",
+  "license": "MIT, GPL",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-svgmin": "0.3.0",
+    "grunt-grunticon": "*"
+  },
+  "scripts": {
+    "prepublish": "grunt"
+  }
+}
