@@ -1,5 +1,6 @@
 # SVG Tools
 Process and optimize SVG files. This project will optimize all the SVG files stored in `svg` folder and save them into `out`
+> This example uses Beautify filters only (see here, https://github.com/ben-eb/gulp-svgmin) more options, see help
 
 ## install
 
