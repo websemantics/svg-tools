@@ -24,3 +24,7 @@ sudo npm install
 ```
 gulp
 ```
+
+## Help
+
+https://github.com/svg/svgo
